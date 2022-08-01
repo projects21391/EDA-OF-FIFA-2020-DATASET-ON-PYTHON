@@ -1,3 +1,3 @@
-# EDA-ON-FIFA-2020-DATASET
+# EDA-ON-FIFA PLAYERS-RECORD-DATASET
 
-Performed EDA On FIFA 2020 Dataset by Python to understand the insights of the dataset by using Pandas, Numpy, Seaborn and Matplotlib libraries.
+Performed EDA On FIFA Players Record  by Python to understand the insights of the dataset by using Pandas, Numpy, Seaborn and Matplotlib libraries.
