@@ -1,3 +1,3 @@
-# EDA-ON-FIFA PLAYERS-RECORD-DATASET
+# PYTHON PROJECT ON FIFA PLAYERS RECORD
 
-Performed EDA On FIFA Players Record  by Python to understand the insights of the dataset by using Pandas, Numpy, Seaborn and Matplotlib libraries.
+Performed EDA On FIFA Players Record to understand the insights of the Dataset by using Python (Pandas, Numpy, Seaborn and Matplotlib libraries).
